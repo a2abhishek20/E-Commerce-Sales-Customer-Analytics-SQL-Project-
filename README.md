@@ -5,29 +5,29 @@ Overview  This project analyzes an e-commerce transactional database using SQL t
 
 The project includes 6 relational tables:
 Customers
-Products
-Orders
-Order_Items
-Payments
-Returns
+Products,
+Orders,
+Order_Items,
+Payments,
+Returns,
 
 🛠 SQL Skills Demonstrated
 
 Complex JOIN operations
-GROUP BY & HAVING
-Aggregate functions (SUM, COUNT, AVG)
-Subqueries
-Window functions (RANK, Running Total)
+GROUP BY & HAVING,
+Aggregate functions (SUM, COUNT, AVG),
+Subqueries,
+Window functions (RANK, Running Total),
 Revenue & KPI calculations
 
 📈 Key Insights Generated
 
 Total Revenue & Average Order Value
-Top 3 Customers by Revenue
-Revenue Contribution by Category (%)
-Customer Lifetime Value (CLV)
-Return Rate (%)
-Most Used Payment Method
+Top 3 Customers by Revenue,
+Revenue Contribution by Category (%),
+Customer Lifetime Value (CLV),
+Return Rate (%),
+Most Used Payment Method,
 Monthly Revenue Trend
 
 💼 Business Impact
